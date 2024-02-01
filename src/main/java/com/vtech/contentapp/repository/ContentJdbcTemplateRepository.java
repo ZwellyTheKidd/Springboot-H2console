@@ -1,8 +1,8 @@
 package com.vtech.contentapp.repository;
 
-import com.vtech.contentcalendar.model.Content;
-import com.vtech.contentcalendar.model.Status;
-import com.vtech.contentcalendar.model.Type;
+import com.vtech.contentapp.model.Content;
+import com.vtech.contentapp.model.Status;
+import com.vtech.contentapp.model.Type;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 

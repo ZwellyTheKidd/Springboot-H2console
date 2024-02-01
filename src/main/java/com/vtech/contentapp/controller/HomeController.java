@@ -1,6 +1,6 @@
 package com.vtech.contentapp.controller;
 
-import com.vtech.contentcalendar.config.ContentCalendarProperties;
+import com.vtech.contentapp.config.ContentCalendarProperties;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

@@ -1,8 +1,8 @@
 package com.vtech.contentapp.controller;
 
-import com.vtech.contentcalendar.model.Content;
-import com.vtech.contentcalendar.model.Status;
-import com.vtech.contentcalendar.repository.ContentRepository;
+import com.vtech.contentapp.model.Content;
+import com.vtech.contentapp.model.Status;
+import com.vtech.contentapp.repository.ContentRepository;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

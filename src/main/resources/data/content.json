@@ -1,0 +1,37 @@
+[{
+  "id": null,
+  "title":"My First Blog Post",
+  "desc":"My first blog post",
+  "status":"IDEA",
+  "contentType":"ARTICLE",
+  "dateCreated":"2023-01-27T00:00:00.0000000",
+  "dateUpdated":null,
+  "url":"http://www.vtech.calendar/blog/2023"
+},{
+  "id": null,
+  "title":"My Second Blog Post",
+  "desc":"My Second blog post",
+  "status":"PUBLISHED",
+  "contentType":"ARTICLE",
+  "dateCreated":"2023-01-27T00:00:00.0000000",
+  "dateUpdated":null,
+  "url":"http://www.vtech.calendar/blog/2023"
+},{
+  "id": null,
+  "title":"My Third Blog Post",
+  "desc":"My Third blog post",
+  "status":"PUBLISHED",
+  "contentType":"ARTICLE",
+  "dateCreated":"2023-01-27T00:00:00.0000000",
+  "dateUpdated":null,
+  "url":"http://www.vtech.calendar/blog/2023"
+},{
+  "id": null,
+  "title":"SPRING BOOT",
+  "desc":"My SPRING BOOT post",
+  "status":"IDEA",
+  "contentType":"VIDEO",
+  "dateCreated":"2023-01-27T00:00:00.0000000",
+  "dateUpdated":null,
+  "url":"http://www.vtech.calendar/blog/2023"
+}]

@@ -1,7 +1,7 @@
 package com.vtech.contentapp.repository;
 
-import com.vtech.contentcalendar.model.Content;
-import com.vtech.contentcalendar.model.Status;
+import com.vtech.contentapp.model.Content;
+import com.vtech.contentapp.model.Status;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.ListCrudRepository;
 import org.springframework.data.repository.query.Param;

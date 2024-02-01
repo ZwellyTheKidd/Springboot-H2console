@@ -1,7 +1,7 @@
 package com.vtech.contentapp.repository;
 
-import com.vtech.contentcalendar.model.Content;
-import com.vtech.contentcalendar.model.Type;
+import com.vtech.contentapp.model.Content;
+import com.vtech.contentapp.model.Type;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;
 
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import static com.vtech.contentcalendar.model.Status.IDEA;
+import static com.vtech.contentapp.model.Status.IDEA;
 
 @Repository
 public class ContentCollectionRepository {

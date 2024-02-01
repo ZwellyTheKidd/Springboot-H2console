@@ -3,8 +3,8 @@ package com.vtech.contentapp.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.vtech.contentcalendar.model.Content;
-import com.vtech.contentcalendar.repository.ContentRepository;
+import com.vtech.contentapp.model.Content;
+import com.vtech.contentapp.repository.ContentRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
