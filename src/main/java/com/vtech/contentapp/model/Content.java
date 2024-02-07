@@ -1,5 +1,7 @@
 package com.vtech.contentapp.model;
 
+
+
 import jakarta.validation.constraints.NotBlank;
 import org.springframework.data.annotation.Id;
 

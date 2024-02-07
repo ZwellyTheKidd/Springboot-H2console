@@ -6,6 +6,10 @@ import com.vtech.contentapp.model.Type;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
+import javax.validation.Valid;
+import java.sql.Timestamp;
+
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.List;
@@ -36,6 +40,8 @@ public class ContentJdbcTemplateRepository {
         List<Content> contents =jdbcTemplate.query(sql, ContentJdbcTemplateRepository::mapRow);
         return contents;
     }
+
+
 
 
 
